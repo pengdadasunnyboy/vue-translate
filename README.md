@@ -28,3 +28,16 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+vue 实现简单的在线翻译系统  
+
+翻译的API接口https://tech.yandex.com/      该网站是免费注册的
+
+
+感觉接口没有谷歌翻译那么准   就当自己练习练习  
+
+DEMO很小  完全理解的话差不多就能入门了
+
+
